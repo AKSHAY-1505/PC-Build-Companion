@@ -1,7 +1,7 @@
 # PC-Build-Companion
 This project uses a GUI application which assists the user in choosing the components of their choice and ensures that the all the components are compatible with each other. It helps the users to be educated about the PC market by providing trending news. It maintains a database of all the components that are available in the market with best buy links
 
-**The main objective of the PC Build Companion are:**
+**•The main objective of the PC Build Companion are:**
 
 o	To help the end users choose the right components for their PC
 
@@ -22,6 +22,7 @@ o	Provide an easy way for the administrators to maintain the database which stor
    1) Ram – 4 GB or More
    
    2) Processor – Intel Core i3 or Higher
+
 **•	Software Requirements**
    
    1) PyCharm IDE
