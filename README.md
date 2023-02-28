@@ -1,5 +1,5 @@
 # PC-Build-Companion
-This project uses a GUI application which assists the user in choosing the components of their choice and ensures that the all the components are compatible with each other. It helps the users to be educated about the PC market by providing trending news. It maintains a database of all the components that are available in the market with best buy links
+This project uses a GUI to assist the user in choosing the components of their choice and ensures that the all the components are compatible with each other. It helps the users to be educated about the PC market by providing trending news. It maintains a database of all the components that are available in the market with best buy links
 
 **•The main objective of the PC Build Companion are:**
 
